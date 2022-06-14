@@ -1,0 +1,3 @@
+Sitemap: http://www.dragongear.tk/sitemap.xml
+User-agent: *
+Disallow:

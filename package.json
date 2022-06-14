@@ -1,0 +1,16 @@
+{
+  "name": "dragonGear-website",
+  "version": "1.0.0",
+  "description": "Second website:https://dragongear.tk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanay George Varghese",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "node-sass": "^4.12.0"
+  }
+}
